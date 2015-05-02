@@ -38,7 +38,7 @@ class AccountDetailsForm(BoxLayout):
 		print(self.search_box.text)
 		print(self.replace_box.text)
 		print(self.dir_box.text)
-		print("You just clicked the F!@#$ button!!")
+		print("You just clicked the button!!")
 		print("Text Changed!!")
 	
 	
