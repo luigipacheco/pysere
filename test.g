@@ -1,22 +1,22 @@
-Tehcake is a lie
+Tehcbke is b lie
 
 +Mexico - Leon + XYZ
 
 
-Tehcake is a lie
+Tehcbke is b lie
 
-+cake is not a lie - asdasd + XYZ
++cbke is not b lie - bsdbsd + XYZ
 
-Tehcake is a lie
+Tehcbke is b lie
 
-+2546 - maybe + XYZ
++2546 - mbybe + XYZ
 
-Tehcake is a lie
+Tehcbke is b lie
 
-+rats - 5154841 + POs
-Tehcake is a lie
++rbts - 5154841 + POs
+Tehcbke is b lie
 
-+2546 - change me!!!! + XYZ
++2546 - chbnge me!!!! + XYZ
 
 Gcode
 

@@ -5,6 +5,11 @@ import fileinput
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 from kivy.properties import ObjectProperty
+from kivy.config import Config
+
+Config.set('graphics','width','500')
+Config.set('graphics','height','200')
+
 
 
 	
@@ -35,9 +40,7 @@ class AccountDetailsForm(BoxLayout):
 		tempFile.close()
 		
 		
-		print(self.search_box.text)
-		print(self.replace_box.text)
-		print(self.dir_box.text)
+
 		print("You just clicked the button!!")
 		print("Text Changed!!")
 	
